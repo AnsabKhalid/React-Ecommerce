@@ -1,0 +1,29 @@
+.background{
+    background-color : #343a40!important;
+    color : white;
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 80px;
+    padding : 20px 20px 20px 20px;
+}
+
+.text{
+    margin-top: 10px;
+}
+
+.margin{
+    margin-top: 30px;   
+}
+
+.margincart{
+    margin-top: 30px;   
+}
+
+.marginbottom{
+    margin-bottom: 30px;
+}
+
+.formstyle {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}

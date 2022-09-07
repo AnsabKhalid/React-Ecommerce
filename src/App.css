@@ -1,0 +1,47 @@
+.product-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.product-price div {
+  font-size: 1.5rem;
+}
+
+footer, .minSite{
+  height : 40px;
+  margin-top: 40px;
+}
+
+.site {
+  min-height: 100vh;
+  margin-bottom: -40px;
+}
+
+.product-qty {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+}
+
+
+.product-qty div {
+  font-size: 1rem;
+}
+
+#cursor {
+  cursor: pointer;
+}
+
+.close-modal {
+  position: absolute;
+  right: 1rem;
+  top: 2.5rem;
+  z-index: 1000;
+}
+
+#center {
+  text-align: center;
+}
